@@ -15,3 +15,8 @@ This is a testing source code rep of FT8739.
 ###  
 ---
 `` `包裹起来` ``
+```C  
+#include <stdio.h>  
+int main()
+giber
+```
